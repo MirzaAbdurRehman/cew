@@ -1,0 +1,9 @@
+Temperature: 0.00, Humidity: 0.00, Pressure: 0.00, Precipitation: 0.00, UV Index: 0.00
+Temperature: 25.00, Humidity: 65.00, Pressure: 1011.60, Precipitation: 0.00, UV Index: 0.00
+Temperature: 25.00, Humidity: 65.00, Pressure: 1011.60, Precipitation: 0.00, UV Index: 0.00
+Temperature: 24.00, Humidity: 73.00, Pressure: 1011.60, Precipitation: 0.00, UV Index: 0.00
+Temperature: 24.00, Humidity: 73.00, Pressure: 1011.60, Precipitation: 0.00, UV Index: 0.00
+Temperature: 24.00, Humidity: 73.00, Pressure: 1011.60, Precipitation: 0.00, UV Index: 0.00
+Temperature: 24.00, Humidity: 73.00, Pressure: 1011.60, Precipitation: 0.00, UV Index: 0.00
+Temperature: 24.00, Humidity: 73.00, Pressure: 1011.60, Precipitation: 0.00, UV Index: 0.00
+Temperature: 24.00, Humidity: 69.00, Pressure: 1011.60, Precipitation: 0.00, UV Index: 0.00
